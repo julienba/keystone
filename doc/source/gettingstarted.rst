@@ -29,7 +29,7 @@ First, you will need to install keystone, if you haven't done so already
    
 Creating your first global admin
 ---------------------------------   
-Change driectory to your install path
+Change directory to your install path
 
    
    
